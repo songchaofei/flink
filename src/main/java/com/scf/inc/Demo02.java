@@ -1,4 +1,4 @@
-package com.scf;
+package com.scf.inc;
 
 import org.apache.flink.streaming.api.datastream.DataStreamSource;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;

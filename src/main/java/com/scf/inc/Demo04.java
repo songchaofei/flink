@@ -1,4 +1,4 @@
-package com.scf;
+package com.scf.inc;
 
 import org.apache.flink.api.java.ExecutionEnvironment;
 import org.apache.flink.configuration.Configuration;
